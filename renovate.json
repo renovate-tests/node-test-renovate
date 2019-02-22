@@ -1,1 +1,4 @@
-{}
+{
+	"requiredStatusChecks": null,
+  	"automerge": true
+}
