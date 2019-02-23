@@ -1,4 +1,6 @@
 {
 	"requiredStatusChecks": null,
+	"minor": {
   	"automerge": true
+	}
 }
